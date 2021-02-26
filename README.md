@@ -32,14 +32,14 @@ Dynamic website creation in Python with cherrypy
 <b>windows</b>
 
 ```bash
-$ npx npkill
+$ 
 ```
 
 <b>linux</b>
 
 
 ```bash
-$ npx npkill
+$ 
 ```
 
 
